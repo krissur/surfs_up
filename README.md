@@ -10,6 +10,7 @@
 
 ## June Temperature Analysis
 
+![image](https://user-images.githubusercontent.com/93962390/151670877-f76892f4-1963-43f4-a72b-1b5b87c4ed4d.png)
 
 
 ## December Temperatures Analysis
