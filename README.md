@@ -1,8 +1,7 @@
 # Surfs_up
 
 ## Overview
-
-
+For this project I was assigned the task of analyzing weather data in Oahu. I have received data from a multitude of weather stations over several months to help determine if a surf shop in Oahu could be successful in this area based on climate statistics.
 
 
 ## Results
